@@ -11,11 +11,12 @@
 	[
 		"Vintage"
 	],
+	"index_files": false,
 	"save_on_focus_lost": true,
 	"show_encoding": true,
 	"show_full_path": true,
 	"tab_size": 4,
 	"theme": "Default.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"index_files":false
+	"update_check":false,
+	"translate_tabs_to_spaces": true
 }
